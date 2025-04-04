@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋  
+I am Nisha Poonia, a passionate Software Developer focused on **Cloud Automation** and **Cybersecurity**, currently building secure and scalable cloud-native applications.  
 
-<!--
-**nishapoonia798/nishapoonia798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m skilled in deploying and managing infrastructure using **AWS** and **GCP**, and automating workflows with tools like **Terraform** and **Python scripts**.  
+🛡️ I’m diving deep into **Networking** with technologies like **Palo Alto**, **Fortinet**, and **Cloud Security Practices**.  
 
-Here are some ideas to get you started:
+🚀 Currently working on: **ZenithCare** – A Full-Stack Hospital Appointment Booking System to modernize healthcare bookings.  
+📚 Actively learning: **Ethical Hacking**, **GCP Networking**, and **Cloud Security Frameworks**.  
+🤝 I’m looking to collaborate on impactful **cloud security automation** and **network defense** projects.  
+💬 Ask me about: GCP, AWS, Cybersecurity, Networking, Spring Boot, Angular  
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nisha-poonia-7a090b202/) 
+⚡ Fun fact: I love exploring how automation and security work together to protect and scale cloud environments!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚙️ Languages and Tools  
+- Visual Studio Code  
+- Java, Spring Boot, Python  
+- Angular, HTML5, CSS3, JavaScript  
+- MySQL  
+- Git & GitHub  
+- AWS, GCP  
+- Palo Alto, Fortinet  
