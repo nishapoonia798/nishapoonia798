@@ -1,6 +1,7 @@
 # Hi there 👋  
 I am Nisha Poonia, a passionate Software Developer focused on **Cloud Automation** and **Cybersecurity**, currently building secure and scalable cloud-native applications.  
 
+🚀 Currently working on: **ZenithCare** – A Full-Stack Hospital Appointment Booking System to modernize healthcare bookings. 
 🌱 I’m skilled in deploying and managing infrastructure using **AWS** and **GCP**, and automating workflows with tools like **Terraform** and **Python scripts**.  
 🛡️ I’m diving deep into **Networking** with technologies like **Palo Alto**, **Fortinet**, and **Cloud Security Practices**.   
 📚 Actively learning: **Ethical Hacking**, **GCP Networking**, and **Cloud Security Frameworks**.  
