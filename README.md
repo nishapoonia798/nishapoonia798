@@ -14,8 +14,7 @@ I am Nisha Poonia, a passionate Software Developer focused on **Cloud Automation
 
 ## ⚙️ Languages and Tools  
 - Visual Studio Code  
-- Java, Spring Boot, Python  
-- Angular, HTML5, CSS3, JavaScript  
+- Ansible, Terraform, Python, CI/CD, Jenkins   
 - MySQL  
 - Git & GitHub  
 - AWS, GCP  
